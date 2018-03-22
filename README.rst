@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWarchant%2Fhunter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FWarchant%2Fhunter?ref=badge_shield)
+
 Hunter
 ======
 
@@ -34,3 +36,6 @@ Supported platforms: **Linux**, **Mac**, **Windows**, **iOS**, **Android**, **Ra
   :target: https://github.com/ruslo/hunter/blob/master/LICENSE
   :alt: LICENSE
   
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWarchant%2Fhunter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWarchant%2Fhunter?ref=badge_large)
